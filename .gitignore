@@ -20,4 +20,4 @@
 *.dSYM/
 
 # Finder view folder settings
-.DS_Store
+#.DS_Store
