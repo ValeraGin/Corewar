@@ -1,0 +1,6 @@
+[submodule "asm"]
+	path = asm
+	url = https://github.com/ValeraGin/corewar_asm
+[submodule "vm"]
+	path = vm
+	url = https://github.com/elijahkash/corewar_vm
