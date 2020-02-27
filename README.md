@@ -12,4 +12,4 @@ Collaboration between
 
 |<img src="https://avatars0.githubusercontent.com/u/5599493" width="75px;"/>|<img src="https://avatars0.githubusercontent.com/u/55159311" width="75px;"/>|<img src="https://avatars3.githubusercontent.com/u/52980901" width="75px;"/>|
 | --------- | --------- | -------- |
-| [Игнаткович Валерий](https://github.com/ValeraGin) |[Имя](https://github.com/SemRunner)|[Кашницкий Илья](https://github.com/elijahkash)|
+| [Игнаткович Валерий](https://github.com/ValeraGin) |[Бегунов Семён](https://github.com/SemRunner)|[Кашницкий Илья](https://github.com/elijahkash)|
